@@ -185,6 +185,6 @@ async def spotify(ctx, user: discord.Member=None):
         if isinstance(activity, Spotify):
             await ctx.send(f"{user} is listening to {activity.title} by {activity.artist}")
 
-bot.run('NzIzOTU2OTI0MDkzMzAwODQ3.XvT5lQ.LjPqcbA82iNKYmWLBbf8I64GUP8')
+bot.run(')
 
 
